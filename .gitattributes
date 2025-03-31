@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+regression_practice/bulldozers_sale_price_prediction/data/*.csv filter=lfs diff=lfs merge=lfs -text
